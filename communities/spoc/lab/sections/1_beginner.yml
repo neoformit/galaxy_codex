@@ -6,8 +6,7 @@ tabs:
     heading_md: >
       Connected tutorials to train you to perform single-cell analysis fast!
     content:
-      - title_md:
-        - For first time Galaxy users
+      - title_md: For first time Galaxy users
         description_md: >
           The Galaxy Training Network has a learning pathway to introduce both using Galaxy and performing single-cell RNA-seq analysis.
           Check out the {gtn modal}[Single-Cell RNA-seq analysis pathway](https://training.galaxyproject.org/training-material/learning-pathways/intro_single_cell.html).
