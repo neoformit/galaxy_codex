@@ -30,10 +30,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -75,8 +75,8 @@
         "Suite users on main servers": 144,
         "Suite runs (last 5 years) on main servers": 165,
         "Suite runs on main servers": 495,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "braker3",
@@ -125,10 +125,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -170,8 +170,8 @@
         "Suite users on main servers": 1095,
         "Suite runs (last 5 years) on main servers": 2350,
         "Suite runs on main servers": 7050,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "helixer",
@@ -216,10 +216,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -261,8 +261,8 @@
         "Suite users on main servers": 138,
         "Suite runs (last 5 years) on main servers": 347,
         "Suite runs on main servers": 1041,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "abacas",
@@ -295,10 +295,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -340,8 +340,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "assemblystats",
@@ -374,10 +374,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -419,8 +419,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "bam2mappingstats",
@@ -453,10 +453,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -498,8 +498,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "combine_assemblystats",
@@ -532,10 +532,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -577,8 +577,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "filter_spades_repeats",
@@ -611,10 +611,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -656,8 +656,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "plasmidspades",
@@ -690,10 +690,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -735,8 +735,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "promer",
@@ -769,10 +769,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -814,8 +814,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "repeatexplorer2",
@@ -848,10 +848,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -893,8 +893,8 @@
         "Suite users on main servers": 114,
         "Suite runs (last 5 years) on main servers": 95,
         "Suite runs on main servers": 285,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "ncbi_egapx",
@@ -904,7 +904,7 @@
         "Description": "Eukaryotic Genome Annotation Pipeline - External (EGAPx)",
         "Suite first commit date": "2024-08-19",
         "Homepage": "https://github.com/ncbi/egapx",
-        "Suite version": "0.2-alpha",
+        "Suite version": "0.3.2-alpha",
         "Suite conda package": null,
         "Latest suite conda package version": null,
         "Suite version status": "To update",
@@ -927,10 +927,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -972,8 +972,8 @@
         "Suite users on main servers": 18,
         "Suite runs (last 5 years) on main servers": 15,
         "Suite runs on main servers": 45,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "hisat",
@@ -1006,10 +1006,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1051,8 +1051,8 @@
         "Suite users on main servers": 12,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 228,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "bionano",
@@ -1085,10 +1085,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1130,8 +1130,8 @@
         "Suite users on main servers": 648,
         "Suite runs (last 5 years) on main servers": 1286,
         "Suite runs on main servers": 3858,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "blobtoolkit",
@@ -1165,10 +1165,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1210,8 +1210,8 @@
         "Suite users on main servers": 318,
         "Suite runs (last 5 years) on main servers": 1850,
         "Suite runs on main servers": 5550,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "chipseeker",
@@ -1223,7 +1223,7 @@
         "Homepage": "https://bioconductor.org/packages/release/bioc/html/ChIPseeker.html",
         "Suite version": "1.32.0",
         "Suite conda package": "bioconductor-chipseeker",
-        "Latest suite conda package version": "1.38.0",
+        "Latest suite conda package version": "1.42.0",
         "Suite version status": "To update",
         "ToolShed categories": [
             "ChIP-seq",
@@ -1245,10 +1245,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1290,8 +1290,8 @@
         "Suite users on main servers": 10958,
         "Suite runs (last 5 years) on main servers": 53108,
         "Suite runs on main servers": 161961,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "erga_ear",
@@ -1325,10 +1325,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1370,8 +1370,8 @@
         "Suite users on main servers": 6,
         "Suite runs (last 5 years) on main servers": 28,
         "Suite runs on main servers": 84,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "flye",
@@ -1423,10 +1423,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1468,8 +1468,8 @@
         "Suite users on main servers": 22663,
         "Suite runs (last 5 years) on main servers": 61791,
         "Suite runs on main servers": 185534,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "graphmap",
@@ -1517,12 +1517,12 @@
         "Number of tools on UseGalaxy.org (Main)": 0,
         "Number of tools on UseGalaxy.org.au": 0,
         "Number of tools on UseGalaxy.eu": 2,
-        "Number of tools on UseGalaxy.fr": 0,
+        "Number of tools on UseGalaxy.fr": 2,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1564,8 +1564,8 @@
         "Suite users on main servers": 984,
         "Suite runs (last 5 years) on main servers": 7012,
         "Suite runs on main servers": 21368,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "instagraal",
@@ -1620,10 +1620,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1665,8 +1665,8 @@
         "Suite users on main servers": 42,
         "Suite runs (last 5 years) on main servers": 157,
         "Suite runs on main servers": 471,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "mitohifi",
@@ -1699,10 +1699,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1724,7 +1724,7 @@
         "Number of tools on Palfinder": 0,
         "Number of tools on PepSimili": 0,
         "Number of tools on PhagePromotor": 0,
-        "Number of tools on UseGalaxy.be": 0,
+        "Number of tools on UseGalaxy.be": 1,
         "Number of tools on UseGalaxy.cz": 1,
         "Number of tools on UseGalaxy.no": 0,
         "Number of tools on Viral Variant Visualizer (VVV)": 0,
@@ -1744,8 +1744,8 @@
         "Suite users on main servers": 807,
         "Suite runs (last 5 years) on main servers": 1711,
         "Suite runs on main servers": 5133,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "nextdenovo",
@@ -1790,10 +1790,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1835,8 +1835,8 @@
         "Suite users on main servers": 474,
         "Suite runs (last 5 years) on main servers": 391,
         "Suite runs on main servers": 1173,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "tgsgapcloser",
@@ -1891,10 +1891,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -1936,8 +1936,8 @@
         "Suite users on main servers": 153,
         "Suite runs (last 5 years) on main servers": 547,
         "Suite runs on main servers": 1641,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "wtdbg",
@@ -1982,10 +1982,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2027,8 +2027,8 @@
         "Suite users on main servers": 1050,
         "Suite runs (last 5 years) on main servers": 1619,
         "Suite runs on main servers": 4953,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "clc_assembly_cell",
@@ -2064,10 +2064,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2109,8 +2109,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "count_roi_variants",
@@ -2144,10 +2144,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2189,8 +2189,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "coverage_stats",
@@ -2224,10 +2224,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2269,8 +2269,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "sample_seqs",
@@ -2306,10 +2306,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2351,8 +2351,8 @@
         "Suite users on main servers": 1434,
         "Suite runs (last 5 years) on main servers": 5442,
         "Suite runs on main servers": 16764,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "samtools_depad",
@@ -2387,10 +2387,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2432,8 +2432,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "samtools_depth",
@@ -2468,10 +2468,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2513,8 +2513,8 @@
         "Suite users on main servers": 6831,
         "Suite runs (last 5 years) on main servers": 16850,
         "Suite runs on main servers": 50614,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "samtools_idxstats",
@@ -2549,10 +2549,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2594,8 +2594,8 @@
         "Suite users on main servers": 40262,
         "Suite runs (last 5 years) on main servers": 140064,
         "Suite runs on main servers": 459636,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "seq_filter_by_mapping",
@@ -2632,10 +2632,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2677,8 +2677,8 @@
         "Suite users on main servers": 565,
         "Suite runs (last 5 years) on main servers": 4322,
         "Suite runs on main servers": 13358,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "seq_primer_clip",
@@ -2713,10 +2713,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2758,8 +2758,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "trimns",
@@ -2792,10 +2792,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2837,8 +2837,8 @@
         "Suite users on main servers": 60,
         "Suite runs (last 5 years) on main servers": 43,
         "Suite runs on main servers": 129,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "abyss",
@@ -2883,10 +2883,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -2928,8 +2928,8 @@
         "Suite users on main servers": 5263,
         "Suite runs (last 5 years) on main servers": 8874,
         "Suite runs on main servers": 26626,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "annotatemyids",
@@ -2941,8 +2941,8 @@
         "Homepage": "https://github.com/galaxyproject/tools-iuc/tree/master/tools/annotatemyids",
         "Suite version": "3.18.0",
         "Suite conda package": "bioconductor-org.hs.eg.db",
-        "Latest suite conda package version": "3.18.0",
-        "Suite version status": "Up-to-date",
+        "Latest suite conda package version": "3.20.0",
+        "Suite version status": "To update",
         "ToolShed categories": [
             "Genome annotation"
         ],
@@ -2966,10 +2966,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3011,8 +3011,8 @@
         "Suite users on main servers": 30007,
         "Suite runs (last 5 years) on main servers": 94209,
         "Suite runs on main servers": 290897,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "argnorm",
@@ -3049,10 +3049,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3094,8 +3094,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "assembly_stats",
@@ -3128,10 +3128,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3173,8 +3173,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "biscot",
@@ -3207,10 +3207,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3252,8 +3252,8 @@
         "Suite users on main servers": 3,
         "Suite runs (last 5 years) on main servers": 3,
         "Suite runs on main servers": 9,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "circexplorer2",
@@ -3295,10 +3295,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3340,8 +3340,8 @@
         "Suite users on main servers": 96,
         "Suite runs (last 5 years) on main servers": 524,
         "Suite runs on main servers": 1572,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "deepsig",
@@ -3374,10 +3374,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3419,8 +3419,8 @@
         "Suite users on main servers": 111,
         "Suite runs (last 5 years) on main servers": 65,
         "Suite runs on main servers": 195,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "disco",
@@ -3462,10 +3462,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3507,8 +3507,8 @@
         "Suite users on main servers": 1539,
         "Suite runs (last 5 years) on main servers": 1719,
         "Suite runs on main servers": 5205,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "evidencemodeler",
@@ -3551,10 +3551,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3596,13 +3596,15 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "fastk",
         "Tool IDs": [
-            "fastk_fastk"
+            "fastk_fastk",
+            "fastk_histex",
+            "fastk_logex"
         ],
         "Description": "FastK: A K-mer counter (for HQ assembly data sets)",
         "Suite first commit date": "2024-05-03",
@@ -3625,15 +3627,15 @@
         "bio.tool name": null,
         "bio.tool description": null,
         "biii ID": null,
-        "Number of tools on UseGalaxy.org (Main)": 0,
+        "Number of tools on UseGalaxy.org (Main)": 3,
         "Number of tools on UseGalaxy.org.au": 0,
-        "Number of tools on UseGalaxy.eu": 1,
+        "Number of tools on UseGalaxy.eu": 3,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3675,8 +3677,8 @@
         "Suite users on main servers": 33,
         "Suite runs (last 5 years) on main servers": 136,
         "Suite runs on main servers": 408,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "fermikit",
@@ -3711,10 +3713,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3756,8 +3758,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "flash",
@@ -3805,10 +3807,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -3850,11 +3852,11 @@
         "Suite users on main servers": 2369,
         "Suite runs (last 5 years) on main servers": 31420,
         "Suite runs on main servers": 100034,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "funannotate",
         "Tool IDs": [
             "funannotate_annotate",
             "funannotate_clean",
@@ -3896,10 +3898,10 @@
         "Number of tools on UseGalaxy.eu": 5,
         "Number of tools on UseGalaxy.fr": 5,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4000,10 +4002,10 @@
         "Number of tools on UseGalaxy.eu": 2,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4011,7 +4013,7 @@
         "Number of tools on GASLINI": 0,
         "Number of tools on Galaxy@AuBi": 0,
         "Number of tools on Galaxy@Pasteur": 0,
-        "Number of tools on GalaxyTrakr": 0,
+        "Number of tools on GalaxyTrakr": 2,
         "Number of tools on Genomic Hyperbrowser": 0,
         "Number of tools on GigaGalaxy": 0,
         "Number of tools on IPK Galaxy Blast Suite": 0,
@@ -4045,11 +4047,11 @@
         "Suite users on main servers": 669,
         "Suite runs (last 5 years) on main servers": 2129,
         "Suite runs on main servers": 6387,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "goenrichment",
         "Tool IDs": [
             "goenrichment",
             "goslimmer"
@@ -4088,10 +4090,10 @@
         "Number of tools on UseGalaxy.eu": 2,
         "Number of tools on UseGalaxy.fr": 2,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4173,10 +4175,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4218,8 +4220,8 @@
         "Suite users on main servers": 12,
         "Suite runs (last 5 years) on main servers": 103,
         "Suite runs on main servers": 309,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "hapog",
@@ -4264,10 +4266,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4309,8 +4311,8 @@
         "Suite users on main servers": 198,
         "Suite runs (last 5 years) on main servers": 502,
         "Suite runs on main servers": 1506,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "hifiasm",
@@ -4322,7 +4324,7 @@
         "Homepage": "https://github.com/chhylp123/hifiasm",
         "Suite version": "0.20.0",
         "Suite conda package": "hifiasm",
-        "Latest suite conda package version": "0.23.0",
+        "Latest suite conda package version": "0.24.0",
         "Suite version status": "To update",
         "ToolShed categories": [
             "Assembly"
@@ -4343,10 +4345,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4388,8 +4390,8 @@
         "Suite users on main servers": 3195,
         "Suite runs (last 5 years) on main servers": 5625,
         "Suite runs on main servers": 16875,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "hisat2",
@@ -4428,10 +4430,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4473,8 +4475,8 @@
         "Suite users on main servers": 134440,
         "Suite runs (last 5 years) on main servers": 1124035,
         "Suite runs on main servers": 3592592,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "hypo",
@@ -4519,10 +4521,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4564,8 +4566,8 @@
         "Suite users on main servers": 279,
         "Suite runs (last 5 years) on main servers": 473,
         "Suite runs on main servers": 1419,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "icescreen",
@@ -4616,10 +4618,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4661,8 +4663,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "idba",
@@ -4705,10 +4707,10 @@
         "Number of tools on UseGalaxy.eu": 3,
         "Number of tools on UseGalaxy.fr": 3,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4750,8 +4752,8 @@
         "Suite users on main servers": 1370,
         "Suite runs (last 5 years) on main servers": 2788,
         "Suite runs on main servers": 8384,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "jellyfish",
@@ -4794,10 +4796,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4839,8 +4841,8 @@
         "Suite users on main servers": 879,
         "Suite runs (last 5 years) on main servers": 2796,
         "Suite runs on main servers": 8388,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "khmer",
@@ -4891,10 +4893,10 @@
         "Number of tools on UseGalaxy.eu": 8,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -4936,8 +4938,8 @@
         "Suite users on main servers": 1876,
         "Suite runs (last 5 years) on main servers": 5005,
         "Suite runs on main servers": 15111,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "links",
@@ -4990,10 +4992,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5035,8 +5037,8 @@
         "Suite users on main servers": 573,
         "Suite runs (last 5 years) on main servers": 992,
         "Suite runs on main servers": 2976,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "megahit",
@@ -5084,10 +5086,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5129,8 +5131,8 @@
         "Suite users on main servers": 11811,
         "Suite runs (last 5 years) on main servers": 35551,
         "Suite runs on main servers": 107253,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "megahit_contig2fastg",
@@ -5178,10 +5180,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5223,8 +5225,8 @@
         "Suite users on main servers": 576,
         "Suite runs (last 5 years) on main servers": 597,
         "Suite runs on main servers": 1835,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "merqury",
@@ -5278,10 +5280,10 @@
         "Number of tools on UseGalaxy.eu": 2,
         "Number of tools on UseGalaxy.fr": 2,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5323,8 +5325,8 @@
         "Suite users on main servers": 2472,
         "Suite runs (last 5 years) on main servers": 5063,
         "Suite runs on main servers": 15189,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "meryl",
@@ -5376,10 +5378,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5421,11 +5423,11 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "metaeuk",
         "Tool IDs": [
             "metaeuk_easy_predict"
         ],
@@ -5466,10 +5468,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5553,10 +5555,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5598,8 +5600,8 @@
         "Suite users on main servers": 948,
         "Suite runs (last 5 years) on main servers": 7394,
         "Suite runs on main servers": 22182,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "miniasm",
@@ -5642,10 +5644,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5687,8 +5689,8 @@
         "Suite users on main servers": 3269,
         "Suite runs (last 5 years) on main servers": 22671,
         "Suite runs on main servers": 68135,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "mitobim",
@@ -5721,10 +5723,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5766,8 +5768,8 @@
         "Suite users on main servers": 423,
         "Suite runs (last 5 years) on main servers": 1412,
         "Suite runs on main servers": 4236,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "necat",
@@ -5808,10 +5810,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5853,8 +5855,8 @@
         "Suite users on main servers": 480,
         "Suite runs (last 5 years) on main servers": 790,
         "Suite runs on main servers": 2370,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "novoplasty",
@@ -5887,10 +5889,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -5932,8 +5934,8 @@
         "Suite users on main servers": 1311,
         "Suite runs (last 5 years) on main servers": 10104,
         "Suite runs on main servers": 30312,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "pharokka",
@@ -5986,12 +5988,12 @@
         "Number of tools on UseGalaxy.org (Main)": 0,
         "Number of tools on UseGalaxy.org.au": 1,
         "Number of tools on UseGalaxy.eu": 1,
-        "Number of tools on UseGalaxy.fr": 0,
+        "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6033,8 +6035,110 @@
         "Suite users on main servers": 1158,
         "Suite runs (last 5 years) on main servers": 5771,
         "Suite runs on main servers": 17313,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
+    },
+    {
+        "Suite ID": "ppanggolin",
+        "Tool IDs": [
+            "ppanggolin_all",
+            "ppanggolin_msa"
+        ],
+        "Description": "Microbial Partitioned PanGenome",
+        "Suite first commit date": "2025-01-22",
+        "Homepage": "https://github.com/labgem/PPanGGOLiN",
+        "Suite version": "2.2.1",
+        "Suite conda package": "ppanggolin",
+        "Latest suite conda package version": "2.2.1",
+        "Suite version status": "Up-to-date",
+        "ToolShed categories": [
+            "Genome annotation"
+        ],
+        "EDAM operations": [
+            "Rarefaction",
+            "Essential dynamics",
+            "Sequence assembly",
+            "Genome annotation"
+        ],
+        "EDAM reduced operations": [
+            "Rarefaction",
+            "Essential dynamics",
+            "Sequence assembly",
+            "Genome annotation"
+        ],
+        "EDAM topics": [
+            "Metagenomics",
+            "Gene and protein families",
+            "Model organisms",
+            "Public health and epidemiology",
+            "Mapping"
+        ],
+        "EDAM reduced topics": [
+            "Metagenomics",
+            "Gene and protein families",
+            "Model organisms",
+            "Public health and epidemiology",
+            "Mapping"
+        ],
+        "Suite owner": "iuc",
+        "Suite source": "https://github.com/galaxyproject/tools-iuc/tree/master/tools/ppanggolin",
+        "Suite parsed folder": "https://github.com/galaxyproject/tools-iuc/tree/main/tools/ppanggolin",
+        "bio.tool ID": "ppanggolin",
+        "bio.tool name": "PPanGGOLiN",
+        "bio.tool description": "PPanGGOLiN is a software suite used to create and manipulate prokaryotic pangenomes from a set of either genomic DNA sequences or provided genome annotations. It is designed to scale up to tens of thousands of genomes. It has the specificity to partition the pangenome using a statistical approach rather than using fixed thresholds which gives it the ability to work with low-quality data such as Metagenomic Assembled Genomes (MAGs) or Single-cell Amplified Genomes (SAGs) thus taking advantage of large scale environmental studies and letting users study the pangenome of uncultivable species",
+        "biii ID": null,
+        "Number of tools on UseGalaxy.org (Main)": 0,
+        "Number of tools on UseGalaxy.org.au": 0,
+        "Number of tools on UseGalaxy.eu": 0,
+        "Number of tools on UseGalaxy.fr": 0,
+        "Number of tools on APOSTL": 0,
+        "Number of tools on CIRM-CFBP": 0,
+        "Number of tools on ChemFlow": 0,
+        "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
+        "Number of tools on CoralSNP": 0,
+        "Number of tools on CropGalaxy": 0,
+        "Number of tools on Dintor": 0,
+        "Number of tools on FreeBioinfo": 0,
+        "Number of tools on GASLINI": 0,
+        "Number of tools on Galaxy@AuBi": 0,
+        "Number of tools on Galaxy@Pasteur": 0,
+        "Number of tools on GalaxyTrakr": 0,
+        "Number of tools on Genomic Hyperbrowser": 0,
+        "Number of tools on GigaGalaxy": 0,
+        "Number of tools on IPK Galaxy Blast Suite": 0,
+        "Number of tools on ImmPort Galaxy": 0,
+        "Number of tools on InteractoMIX": 0,
+        "Number of tools on Lebanese University Galaxy": 0,
+        "Number of tools on MISSISSIPPI": 0,
+        "Number of tools on Mandoiu Lab": 0,
+        "Number of tools on MiModD NacreousMap": 0,
+        "Number of tools on Oqtans": 0,
+        "Number of tools on Palfinder": 0,
+        "Number of tools on PepSimili": 0,
+        "Number of tools on PhagePromotor": 0,
+        "Number of tools on UseGalaxy.be": 0,
+        "Number of tools on UseGalaxy.cz": 0,
+        "Number of tools on UseGalaxy.no": 0,
+        "Number of tools on Viral Variant Visualizer (VVV)": 0,
+        "Suite users (last 5 years) (usegalaxy.eu)": 0,
+        "Suite users (usegalaxy.eu)": 0,
+        "Suite runs (last 5 years) (usegalaxy.eu)": 0,
+        "Suite runs (usegalaxy.eu)": 0,
+        "Suite users (last 5 years) (usegalaxy.org)": 0,
+        "Suite users (usegalaxy.org)": 0,
+        "Suite runs (last 5 years) (usegalaxy.org)": 0,
+        "Suite runs (usegalaxy.org)": 0,
+        "Suite users (last 5 years) (usegalaxy.org.au)": 0,
+        "Suite users (usegalaxy.org.au)": 0,
+        "Suite runs (last 5 years) (usegalaxy.org.au)": 0,
+        "Suite runs (usegalaxy.org.au)": 0,
+        "Suite users (last 5 years) on main servers": 0,
+        "Suite users on main servers": 0,
+        "Suite runs (last 5 years) on main servers": 0,
+        "Suite runs on main servers": 0,
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "prodigal",
@@ -6077,10 +6181,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6122,8 +6226,8 @@
         "Suite users on main servers": 501,
         "Suite runs (last 5 years) on main servers": 1902,
         "Suite runs on main servers": 5706,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "purge_dups",
@@ -6168,10 +6272,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6213,8 +6317,8 @@
         "Suite users on main servers": 1251,
         "Suite runs (last 5 years) on main servers": 20859,
         "Suite runs on main servers": 62577,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "quast",
@@ -6257,10 +6361,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6302,8 +6406,8 @@
         "Suite users on main servers": 65482,
         "Suite runs (last 5 years) on main servers": 151665,
         "Suite runs on main servers": 463815,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "quickmerge",
@@ -6358,10 +6462,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6403,8 +6507,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "ragtag",
@@ -6445,10 +6549,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6490,11 +6594,11 @@
         "Suite users on main servers": 1449,
         "Suite runs (last 5 years) on main servers": 4851,
         "Suite runs on main servers": 14553,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "raven-assembler",
         "Tool IDs": [
             "raven"
         ],
@@ -6524,10 +6628,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6613,10 +6717,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6658,8 +6762,8 @@
         "Suite users on main servers": 2403,
         "Suite runs (last 5 years) on main servers": 17850,
         "Suite runs on main servers": 53550,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "rnaquast",
@@ -6709,10 +6813,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6754,8 +6858,8 @@
         "Suite users on main servers": 990,
         "Suite runs (last 5 years) on main servers": 1899,
         "Suite runs on main servers": 5697,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "salsa",
@@ -6804,10 +6908,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6849,8 +6953,8 @@
         "Suite users on main servers": 690,
         "Suite runs (last 5 years) on main servers": 1911,
         "Suite runs on main servers": 5733,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "shasta",
@@ -6862,7 +6966,7 @@
         "Homepage": "https://github.com/chanzuckerberg/shasta",
         "Suite version": "0.6.0",
         "Suite conda package": "shasta",
-        "Latest suite conda package version": "0.13.0",
+        "Latest suite conda package version": "0.14.0",
         "Suite version status": "To update",
         "ToolShed categories": [
             "Assembly",
@@ -6884,10 +6988,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -6929,8 +7033,8 @@
         "Suite users on main servers": 1143,
         "Suite runs (last 5 years) on main servers": 1481,
         "Suite runs on main servers": 4443,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "shovill",
@@ -6975,10 +7079,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7020,8 +7124,8 @@
         "Suite users on main servers": 22184,
         "Suite runs (last 5 years) on main servers": 106662,
         "Suite runs on main servers": 322407,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "smudgeplot",
@@ -7070,10 +7174,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7115,8 +7219,8 @@
         "Suite users on main servers": 534,
         "Suite runs (last 5 years) on main servers": 1305,
         "Suite runs on main servers": 3915,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "spades",
@@ -7167,10 +7271,10 @@
         "Number of tools on UseGalaxy.eu": 9,
         "Number of tools on UseGalaxy.fr": 9,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7212,8 +7316,8 @@
         "Suite users on main servers": 87595,
         "Suite runs (last 5 years) on main servers": 257254,
         "Suite runs on main servers": 783637,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "spaln",
@@ -7248,10 +7352,10 @@
         "Number of tools on UseGalaxy.eu": 2,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7293,8 +7397,8 @@
         "Suite users on main servers": 1146,
         "Suite runs (last 5 years) on main servers": 4720,
         "Suite runs on main servers": 14201,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "taxonomy_filter_refseq",
@@ -7328,10 +7432,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7373,8 +7477,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "taxonomy_krona_chart",
@@ -7415,10 +7519,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7460,8 +7564,8 @@
         "Suite users on main servers": 36655,
         "Suite runs (last 5 years) on main servers": 69273,
         "Suite runs on main servers": 214239,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "telescope_assign",
@@ -7518,10 +7622,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7563,11 +7667,11 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "transit",
         "Tool IDs": [
             "gff_to_prot",
             "transit_gumbel",
@@ -7613,10 +7717,10 @@
         "Number of tools on UseGalaxy.eu": 5,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7718,10 +7822,10 @@
         "Number of tools on UseGalaxy.eu": 5,
         "Number of tools on UseGalaxy.fr": 5,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7763,11 +7867,11 @@
         "Suite users on main servers": 1236,
         "Suite runs (last 5 years) on main servers": 19169,
         "Suite runs on main servers": 57507,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "tsebra",
         "Tool IDs": [
             "tsebra"
         ],
@@ -7813,10 +7917,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7908,10 +8012,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -7953,8 +8057,8 @@
         "Suite users on main servers": 35941,
         "Suite runs (last 5 years) on main servers": 158582,
         "Suite runs on main servers": 505309,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "velvet",
@@ -7998,10 +8102,10 @@
         "Number of tools on UseGalaxy.eu": 2,
         "Number of tools on UseGalaxy.fr": 2,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8043,8 +8147,8 @@
         "Suite users on main servers": 45522,
         "Suite runs (last 5 years) on main servers": 104904,
         "Suite runs on main servers": 317557,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "velvetoptimiser",
@@ -8089,10 +8193,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8134,8 +8238,8 @@
         "Suite users on main servers": 12589,
         "Suite runs (last 5 years) on main servers": 17561,
         "Suite runs on main servers": 55565,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "verkko",
@@ -8168,10 +8272,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8213,8 +8317,8 @@
         "Suite users on main servers": 75,
         "Suite runs (last 5 years) on main servers": 48,
         "Suite runs on main servers": 144,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "yahs",
@@ -8247,10 +8351,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8292,8 +8396,8 @@
         "Suite users on main servers": 789,
         "Suite runs (last 5 years) on main servers": 1542,
         "Suite runs on main servers": 4626,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "biotradis",
@@ -8338,10 +8442,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8383,8 +8487,8 @@
         "Suite users on main servers": 1125,
         "Suite runs (last 5 years) on main servers": 6243,
         "Suite runs on main servers": 18729,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "blast_to_scaffold",
@@ -8419,10 +8523,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8464,8 +8568,8 @@
         "Suite users on main servers": 3,
         "Suite runs (last 5 years) on main servers": 8,
         "Suite runs on main servers": 24,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "blastparser_and_hits",
@@ -8499,10 +8603,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8544,8 +8648,8 @@
         "Suite users on main servers": 3,
         "Suite runs (last 5 years) on main servers": 8,
         "Suite runs on main servers": 24,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "blastx_to_scaffold",
@@ -8580,10 +8684,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8625,8 +8729,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "cap3",
@@ -8659,10 +8763,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8704,8 +8808,8 @@
         "Suite users on main servers": 912,
         "Suite runs (last 5 years) on main servers": 16755,
         "Suite runs on main servers": 50265,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "oases",
@@ -8739,10 +8843,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8784,8 +8888,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "emlassemblyline",
@@ -8828,10 +8932,10 @@
         "Number of tools on UseGalaxy.eu": 11,
         "Number of tools on UseGalaxy.fr": 9,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8873,8 +8977,8 @@
         "Suite users on main servers": 384,
         "Suite runs (last 5 years) on main servers": 516,
         "Suite runs on main servers": 1548,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "ecoregionalization",
@@ -8912,10 +9016,10 @@
         "Number of tools on UseGalaxy.eu": 6,
         "Number of tools on UseGalaxy.fr": 5,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -8957,8 +9061,8 @@
         "Suite users on main servers": 108,
         "Suite runs (last 5 years) on main servers": 352,
         "Suite runs on main servers": 1056,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "Geometric means (Dead wood)",
@@ -8993,10 +9097,10 @@
         "Number of tools on UseGalaxy.eu": 3,
         "Number of tools on UseGalaxy.fr": 3,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9038,8 +9142,8 @@
         "Suite users on main servers": 54,
         "Suite runs (last 5 years) on main servers": 53,
         "Suite runs on main servers": 159,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "pampa",
@@ -9076,10 +9180,10 @@
         "Number of tools on UseGalaxy.eu": 5,
         "Number of tools on UseGalaxy.fr": 5,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9121,11 +9225,11 @@
         "Suite users on main servers": 552,
         "Suite runs (last 5 years) on main servers": 1887,
         "Suite runs on main servers": 5661,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "aquainfra_importer",
         "Tool IDs": [
             "aquainfra_importer"
         ],
@@ -9155,10 +9259,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9204,14 +9308,14 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-base",
         "Tool IDs": [
             "aquainfra_ogc_api_processes"
         ],
         "Description": "Wrapper for OGC API Processes developed in the AquaINFRA project.",
         "Suite first commit date": "2024-10-10",
         "Homepage": "https://github.com/AquaINFRA/galaxy",
-        "Suite version": "0.2.0",
+        "Suite version": "0.3.0",
         "Suite conda package": "r-base",
         "Latest suite conda package version": null,
         "Suite version status": "To update",
@@ -9234,10 +9338,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9283,7 +9387,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "bgc_ocean",
         "Tool IDs": [
             "harmonize_insitu_to_netcdf"
         ],
@@ -9313,10 +9417,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9362,7 +9466,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-base",
         "Tool IDs": [
             "cb_dissim",
             "cb_ivr",
@@ -9394,10 +9498,10 @@
         "Number of tools on UseGalaxy.eu": 3,
         "Number of tools on UseGalaxy.fr": 3,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9443,7 +9547,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-tangles",
         "Tool IDs": [
             "tool_anonymization",
             "ecology_homogeneity_normality",
@@ -9478,10 +9582,10 @@
         "Number of tools on UseGalaxy.eu": 6,
         "Number of tools on UseGalaxy.fr": 6,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9527,7 +9631,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "xarray",
         "Tool IDs": [
             "timeseries_extraction",
             "xarray_coords_info",
@@ -9562,10 +9666,10 @@
         "Number of tools on UseGalaxy.eu": 6,
         "Number of tools on UseGalaxy.fr": 5,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9611,7 +9715,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "numpy",
         "Tool IDs": [
             "landcover_subindicator"
         ],
@@ -9641,10 +9745,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9727,10 +9831,10 @@
         "Number of tools on UseGalaxy.eu": 8,
         "Number of tools on UseGalaxy.fr": 8,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9772,11 +9876,11 @@
         "Suite users on main servers": 120,
         "Suite runs (last 5 years) on main servers": 1409,
         "Suite runs on main servers": 4316,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-base",
         "Tool IDs": [
             "hirondelle_crim"
         ],
@@ -9806,10 +9910,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9855,7 +9959,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-getopt",
         "Tool IDs": [
             "interpolation_run_idw_interpolation"
         ],
@@ -9885,10 +9989,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -9964,10 +10068,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10009,11 +10113,11 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "sanntis",
         "Tool IDs": [
             "sanntis_marine"
         ],
@@ -10043,10 +10147,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10092,7 +10196,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "pandas",
         "Tool IDs": [
             "iabiodiv_smartbiodiv_med_environ"
         ],
@@ -10123,10 +10227,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10172,7 +10276,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-base",
         "Tool IDs": [
             "obisindicators",
             "obis_data"
@@ -10203,10 +10307,10 @@
         "Number of tools on UseGalaxy.eu": 2,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10252,7 +10356,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "copernicusmarine",
         "Tool IDs": [
             "argo_getdata",
             "copernicusmarine",
@@ -10284,10 +10388,10 @@
         "Number of tools on UseGalaxy.eu": 3,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10333,7 +10437,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-base",
         "Tool IDs": [
             "otb_band_math"
         ],
@@ -10363,10 +10467,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10412,7 +10516,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-base",
         "Tool IDs": [
             "otb_mean_shift_smoothing"
         ],
@@ -10442,10 +10546,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10491,7 +10595,7 @@
         "Deprecated": null
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-mgcv",
         "Tool IDs": [
             "regionalgam_ab_index",
             "regionalgam_autocor_acf",
@@ -10527,10 +10631,10 @@
         "Number of tools on UseGalaxy.eu": 7,
         "Number of tools on UseGalaxy.fr": 7,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10606,10 +10710,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10651,8 +10755,8 @@
         "Suite users on main servers": 3,
         "Suite runs (last 5 years) on main servers": 1,
         "Suite runs on main servers": 3,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "sdmpredictors",
@@ -10685,10 +10789,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10730,8 +10834,8 @@
         "Suite users on main servers": 3,
         "Suite runs (last 5 years) on main servers": 1,
         "Suite runs on main servers": 3,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "spocc_occ",
@@ -10764,10 +10868,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 1,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10809,11 +10913,11 @@
         "Suite users on main servers": 394,
         "Suite runs (last 5 years) on main servers": 789,
         "Suite runs on main servers": 2418,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-base",
         "Tool IDs": [
             "srs_diversity_maps",
             "srs_global_indices",
@@ -10849,10 +10953,10 @@
         "Number of tools on UseGalaxy.eu": 7,
         "Number of tools on UseGalaxy.fr": 7,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10932,10 +11036,10 @@
         "Number of tools on UseGalaxy.eu": 5,
         "Number of tools on UseGalaxy.fr": 5,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -10977,11 +11081,11 @@
         "Suite users on main servers": 114,
         "Suite runs (last 5 years) on main servers": 328,
         "Suite runs on main servers": 984,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-base",
         "Tool IDs": [
             "terrabyte_ogc_api_processes"
         ],
@@ -11011,10 +11115,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -11093,10 +11197,10 @@
         "Number of tools on UseGalaxy.eu": 4,
         "Number of tools on UseGalaxy.fr": 4,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -11138,11 +11242,11 @@
         "Suite users on main servers": 2176,
         "Suite runs (last 5 years) on main servers": 14412,
         "Suite runs on main servers": 43414,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
-        "Suite ID": null,
+        "Suite ID": "r-base",
         "Tool IDs": [
             "zoo_project_ogc_api_processes"
         ],
@@ -11172,10 +11276,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -11253,10 +11357,10 @@
         "Number of tools on UseGalaxy.eu": 1,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -11298,8 +11402,8 @@
         "Suite users on main servers": 9,
         "Suite runs (last 5 years) on main servers": 20,
         "Suite runs on main servers": 65,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "baseline_toxicity_calculator",
@@ -11322,7 +11426,7 @@
         "EDAM topics": [],
         "EDAM reduced topics": [],
         "Suite owner": "mbernt",
-        "Suite source": "https://github.com/bernt-matthias/mb-galaxy-tools/tools/tox_tools/baseline_calculator",
+        "Suite source": "https://github.com/Helmholtz-UFZ/galaxy-tools/tree/main/tools/tox_tools/baseline_calculator",
         "Suite parsed folder": "https://github.com/Helmholtz-UFZ/galaxy-tools/tree/main/tools/tox_tools/baseline_calculator",
         "bio.tool ID": null,
         "bio.tool name": null,
@@ -11333,10 +11437,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -11378,8 +11482,8 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     },
     {
         "Suite ID": "dose_response_analysis_tool",
@@ -11401,7 +11505,7 @@
         "EDAM topics": [],
         "EDAM reduced topics": [],
         "Suite owner": "ufz",
-        "Suite source": "https://github.com/bernt-matthias/mb-galaxy-tools/tools/tox_tools/baseline_calculator",
+        "Suite source": "https://github.com/Helmholtz-UFZ/galaxy-tools/tree/main/tools/tox_tools/dose_responses",
         "Suite parsed folder": "https://github.com/Helmholtz-UFZ/galaxy-tools/tree/main/tools/tox_tools/dose_responses",
         "bio.tool ID": null,
         "bio.tool name": null,
@@ -11412,10 +11516,10 @@
         "Number of tools on UseGalaxy.eu": 0,
         "Number of tools on UseGalaxy.fr": 0,
         "Number of tools on APOSTL": 0,
-        "Number of tools on ARGs-OAP": 0,
         "Number of tools on CIRM-CFBP": 0,
         "Number of tools on ChemFlow": 0,
         "Number of tools on Coloc-stats": 0,
+        "Number of tools on CorGAT": 0,
         "Number of tools on CoralSNP": 0,
         "Number of tools on CropGalaxy": 0,
         "Number of tools on Dintor": 0,
@@ -11457,7 +11561,7 @@
         "Suite users on main servers": 0,
         "Suite runs (last 5 years) on main servers": 0,
         "Suite runs on main servers": 0,
-        "To keep": null,
-        "Deprecated": null
+        "To keep": false,
+        "Deprecated": false
     }
 ]
