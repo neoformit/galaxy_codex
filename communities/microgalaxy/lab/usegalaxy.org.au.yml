@@ -13,6 +13,8 @@ site_name: Australia
 nationality: Australian
 lab_name: Microbiology Lab
 analysis_name: microbiology
+video_url: https://youtu.be/O0FQa1SViZA?si=EblRdiQmr4QLauZ
+video_tooltip: A tour of the Galaxy Australia Microbiology Lab
 
 # Used for rendering tool/workflow links. Trailing '/' will be removed.
 galaxy_base_url: https://microbiology.usegalaxy.org.au
