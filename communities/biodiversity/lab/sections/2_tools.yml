@@ -144,14 +144,14 @@ tabs:
       SPAdes is an assembly toolkit containing various assembly pipelines. It implements the following 4 stages: assembly graph construction, k-bimer adjustment, construction of paired assembly graph and contig construction.
        (Tool usage: 349861)
       <ul>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_biosyntheticspades%2Fspades_biosyntheticspades">spades_biosyntheticspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_coronaspades%2Fspades_coronaspades">spades_coronaspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_metaplasmidspades%2Fspades_metaplasmidspades">spades_metaplasmidspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades_biosyntheticspades%2Fspades_biosyntheticspades">spades_biosyntheticspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades_coronaspades%2Fspades_coronaspades">spades_coronaspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades_metaplasmidspades%2Fspades_metaplasmidspades">spades_metaplasmidspades</a></li>
         <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fmetaspades%2Fmetaspades">metaspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_metaviralspades%2Fspades_metaviralspades">spades_metaviralspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_plasmidspades%2Fspades_plasmidspades">spades_plasmidspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Frnaspades%2Frnaspades">rnaspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_rnaviralspades%2Fspades_rnaviralspades">spades_rnaviralspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades_metaviralspades%2Fspades_metaviralspades">spades_metaviralspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades_plasmidspades%2Fspades_plasmidspades">spades_plasmidspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Frnaspades%2Frnaspades">rnaspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades_rnaviralspades%2Fspades_rnaviralspades">spades_rnaviralspades</a></li>
         <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades%2Fspades">spades</a></li>
       </ul>
   - title_md: unicycler
