@@ -13,7 +13,7 @@ site_name: "Australia"
 nationality: "Australian"
 
 # Used for rendering tool/workflow links. Trailing '/' will be removed.
-galaxy_base_url: https://biodiversity.usegalaxy.org.au
+galaxy_base_url: https://usegalaxy.org.au
 subdomain: biodiversity
 root_domain: usegalaxy.org.au
 support_url: https://site.usegalaxy.org.au/request/support
