@@ -100,11 +100,11 @@ tabs:
       Funannotate is a genome prediction, annotation, and comparison software package.
        (Tool usage: 25673)
       <ul>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffunannotate%2Ffunannotate_annotate">funannotate_annotate</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffunannotate%2Ffunannotate_clean">funannotate_clean</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffunannotate%2Ffunannotate_compare">funannotate_compare</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffunannotate%2Ffunannotate_predict">funannotate_predict</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffunannotate%2Ffunannotate_sort">funannotate_sort</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffunannotate_annotate%2Ffunannotate_annotate">funannotate_annotate</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffunannotate_clean%2Ffunannotate_clean">funannotate_clean</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffunannotate_compare%2Ffunannotate_compare">funannotate_compare</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffunannotate_predict%2Ffunannotate_predict">funannotate_predict</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffunannotate_sort%2Ffunannotate_sort">funannotate_sort</a></li>
       </ul>
   - title_md: pharokka
     description_md: |-
@@ -144,15 +144,15 @@ tabs:
       SPAdes is an assembly toolkit containing various assembly pipelines. It implements the following 4 stages: assembly graph construction, k-bimer adjustment, construction of paired assembly graph and contig construction.
        (Tool usage: 349861)
       <ul>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades%2Fspades_biosyntheticspades">spades_biosyntheticspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades%2Fspades_coronaspades">spades_coronaspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades%2Fspades_metaplasmidspades">spades_metaplasmidspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades%2Fmetaspades">metaspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades%2Fspades_metaviralspades">spades_metaviralspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades%2Fspades_plasmidspades">spades_plasmidspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades%2Frnaspades">rnaspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades%2Fspades_rnaviralspades">spades_rnaviralspades</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fspades%2Fspades">spades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_biosyntheticspades%2Fspades_biosyntheticspades">spades_biosyntheticspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_coronaspades%2Fspades_coronaspades">spades_coronaspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_metaplasmidspades%2Fspades_metaplasmidspades">spades_metaplasmidspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fmetaspades%2Fmetaspades">metaspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_metaviralspades%2Fspades_metaviralspades">spades_metaviralspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_plasmidspades%2Fspades_plasmidspades">spades_plasmidspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Frnaspades%2Frnaspades">rnaspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades_rnaviralspades%2Fspades_rnaviralspades">spades_rnaviralspades</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fnml%2Fspades%2Fspades">spades</a></li>
       </ul>
   - title_md: unicycler
     description_md: |-
@@ -180,11 +180,11 @@ tabs:
       Trycycler toolkit wrappers
        (Tool usage: 22003)
       <ul>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ftrycycler%2Ftrycycler_cluster">trycycler_cluster</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ftrycycler%2Ftrycycler_consensus">trycycler_consensus</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ftrycycler%2Ftrycycler_partition">trycycler_partition</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ftrycycler%2Ftrycycler_reconcile_msa">trycycler_reconcile_msa</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ftrycycler%2Ftrycycler_subsample">trycycler_subsample</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ftrycycler_cluster%2Ftrycycler_cluster">trycycler_cluster</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ftrycycler_consensus%2Ftrycycler_consensus">trycycler_consensus</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ftrycycler_partition%2Ftrycycler_partition">trycycler_partition</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ftrycycler_reconcile_msa%2Ftrycycler_reconcile_msa">trycycler_reconcile_msa</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ftrycycler_subsample%2Ftrycycler_subsample">trycycler_subsample</a></li>
       </ul>
   - title_md: ragtag
     description_md: |-
@@ -259,33 +259,33 @@ tabs:
        (Tool usage: 17261)
       <ul>
         <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fgraphlan%2Fgraphlan">graphlan</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fgraphlan%2Fgraphlan_annotate">graphlan_annotate</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fgraphlan_annotate%2Fgraphlan_annotate">graphlan_annotate</a></li>
       </ul>
   - title_md: genomad
     description_md: |-
       Identify virus and plasmid genomes from nucleotide sequences
        (Tool usage: 2647)
       <ul>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fufz%2Fgenomad%2Fgenomad_end_to_end">genomad_end_to_end</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fufz%2Fgenomad_end_to_end%2Fgenomad_end_to_end">genomad_end_to_end</a></li>
       </ul>
   - title_md: mmseqs2
     description_md: |-
       MMseqs2 is an ultra fast and sensitive sequence search and clustering suite
        (Tool usage: 289)
       <ul>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fmmseqs2%2Fmmseqs2_easy_linclust_clustering">mmseqs2_easy_linclust_clustering</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fmmseqs2%2Fmmseqs2_taxonomy_assignment">mmseqs2_taxonomy_assignment</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fmmseqs2_easy_linclust_clustering%2Fmmseqs2_easy_linclust_clustering">mmseqs2_easy_linclust_clustering</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fmmseqs2_taxonomy_assignment%2Fmmseqs2_taxonomy_assignment">mmseqs2_taxonomy_assignment</a></li>
       </ul>
   - title_md: kaiju
     description_md: |-
       taxonomic classification of high-throughput sequencing reads
        (Tool usage: 2)
       <ul>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fkaiju%2Fkaiju_addtaxonnames">kaiju_addtaxonnames</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fkaiju%2Fkaiju_mergeoutputs">kaiju_mergeoutputs</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fkaiju%2Fkaiju_kaiju">kaiju_kaiju</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fkaiju%2Fkaiju_kaiju2krona">kaiju_kaiju2krona</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fkaiju%2Fkaiju_kaiju2table">kaiju_kaiju2table</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fkaiju_addtaxonnames%2Fkaiju_addtaxonnames">kaiju_addtaxonnames</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fkaiju_mergeoutputs%2Fkaiju_mergeoutputs">kaiju_mergeoutputs</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fkaiju_kaiju%2Fkaiju_kaiju">kaiju_kaiju</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fkaiju_kaiju2krona%2Fkaiju_kaiju2krona">kaiju_kaiju2krona</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Fkaiju_kaiju2table%2Fkaiju_kaiju2table">kaiju_kaiju2table</a></li>
       </ul>
   - title_md: metabuli
     description_md: |-
@@ -318,7 +318,7 @@ tabs:
       FastK: A K-mer counter (for HQ assembly data sets)
        (Tool usage: 1131)
       <ul>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffastk%2Ffastk_fastk">fastk_fastk</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffastk%2Ffastk_histex">fastk_histex</a></li>
-        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffastk%2Ffastk_logex">fastk_logex</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffastk_fastk%2Ffastk_fastk">fastk_fastk</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffastk_histex%2Ffastk_histex">fastk_histex</a></li>
+        <li><a href="{{ galaxy_base_url }}/tool_runner?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffastk_logex%2Ffastk_logex">fastk_logex</a></li>
       </ul>
